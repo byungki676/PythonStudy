@@ -1,0 +1,5 @@
+파이썬 참고 자료
+https://github.com/Dentosal/python-sc2
+
+맵파일
+https://github.com/Blizzard/s2client-proto
