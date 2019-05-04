@@ -1,5 +1,5 @@
-ÆÄÀÌ½ã Âü°í ÀÚ·á
+íŒŒì´ì¬ ì°¸ê³  ìë£Œ
 https://github.com/Dentosal/python-sc2
 
-¸ÊÆÄÀÏ
+
 https://github.com/Blizzard/s2client-proto
